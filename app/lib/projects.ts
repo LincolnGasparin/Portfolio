@@ -9,11 +9,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: 'Projeto E-commerce',
-    description: 'Plataforma de vendas online com carrinho de compras, integração de pagamento e painel administrativo.',
-    imageUrl: '/imagens/LvGCabeloPreto.png', 
-    link: 'https://github.com/seu-usuario/ecommerce',
-    tools: ['React', 'Node.js', 'Stripe', 'Styled-Components']
+    title: 'Lolzim - Plataforma de Estatísticas de League of Legends',
+    description: 'Aplicação web que consome a API da Riot Games para exibir estatísticas do seu histórico de partidas de League of Legends.',
+    imageUrl: '/imagens/api_lol.png', 
+    link: 'https://consumindo-api-lo-l.vercel.app/',
+    tools: ['React', 'Node.js', 'Next.js', 'TypeScript', 'TailwindCSS', 'Styled-Components']
   },
   {
     id: 3,
