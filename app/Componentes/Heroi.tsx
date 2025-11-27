@@ -25,7 +25,7 @@ function Heroi() {
                         data-aos="fade-right"
                         data-aos-easing="linear"
                         data-aos-duration="3000"
-                        className='absolute bottom-0 left-20 text-4xl md:text-6xl tracking-wider my-8 leading-tight text-white max-w-lg text-center lg:mr-10'>
+                        className='absolute font-space bottom-0 left-20 text-4xl md:text-6xl tracking-wider my-8 leading-tight text-white max-w-lg text-center lg:mr-10'>
                         Seja bem-vindo 
                         <br />
                         ao meu portfólio!

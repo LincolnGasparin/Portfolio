@@ -3,7 +3,7 @@ export const projects = [
     id: 1,
     title: 'Sistema de Estacionamento - IVT Park',
     description: 'Aplicação completa para gerenciamento de estacionamento, com controle de vagas, caixa e relatórios.',
-    imageUrl: '/imagens/IVTPark.png', 
+    imageUrl: '/imagens/Ivtpark.png', 
     link: 'https://vercel-ivtpark.vercel.app/dashboard',
     tools: ['Next.js', 'TypeScript', 'TailwindCSS', 'Prisma(ORM)', 'PostgreSQL','Supabase']
   },
